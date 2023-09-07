@@ -17,7 +17,7 @@ export default async function og(){
           <div tw="absolute flex items-center top-2 w-full ">
             <p tw="text-white text-4xl flex font-bold m-5">Portfolio Site</p>
             <p tw="text-indigo-200 text-xl flex font-bold m-5">Samir Kumal</p>
-            {/* <p tw="text-purple-200 text-xl flex font-bold m-5">{post?.updatedAt?.toDateString()}</p> */}
+           
           </div>
         </div>
       )
