@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     canonical: "www.samirkumal.com.np"
   },
   verification:{
-    google:"google-site-verification=qPmlR1U05LuFFoTs2KFAaRzyiSVfBJwqMHU5YQ3asvA"
+    google:"google-site-verification=EqvdV3brIc5jOpitnUa1QYoxxqdmv3W2Hjlb7rsOfKg"
   }
   
   
