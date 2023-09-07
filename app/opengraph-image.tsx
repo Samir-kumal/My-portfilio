@@ -20,5 +20,5 @@ export default async function og(){
             {/* <p tw="text-purple-200 text-xl flex font-bold m-5">{post?.updatedAt?.toDateString()}</p> */}
           </div>
         </div>
-      ),
+      )
 }
