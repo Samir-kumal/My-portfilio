@@ -4,7 +4,9 @@ const Footer = () => {
   return (
     <div>
          <footer class="footer">
-            <p class="footer__title">Samir</p>
+           <h2 className='text-2xl'>Contact:</h2>
+            <p className="text-lg">Email: kumalsameer124@gmail.com </p>
+
             <div class="footer__social">
                 <a href="#" class="footer__icon"><i class='bx bxl-facebook' ></i></a>
                 <a href="#" class="footer__icon"><i class='bx bxl-instagram' ></i></a>
