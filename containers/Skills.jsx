@@ -11,7 +11,7 @@ const Skills = () => {
                 <div className="skills__container bd-grid">          
                     <div>
                         <h2 className="skills__subtitle">Profesional Skills</h2>
-                        <p className="skills__text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit optio id vero amet, alias architecto consectetur error eum eaque sit.</p>
+                        <p className="skills__text">As a dynamic web and mobile developer with 2 years of professional expertise, I've successfully crafted innovative digital solutions, demonstrating proficiency in JavaScript, React, and Next.js. Committed to continuous learning and collaboration for impactful results.</p>
                         <div className="skills__data">
                             <div className="skills__names">
                                 <i className='bx bxl-html5 skills__icon'></i>
@@ -27,7 +27,7 @@ const Skills = () => {
                         <div className="skills__data">
                             <div className="skills__names">
                                 <i className='bx bxl-css3 skills__icon'></i>
-                                <span className="skills__name">Taildwind CSS</span>
+                                <span className="skills__name">Tailwind CSS</span>
                             </div>
                             <div className="skills__bar skills__css">
                                 
@@ -39,7 +39,7 @@ const Skills = () => {
                         <div className="skills__data">
                             <div className="skills__names">
                                 <i className='bx bxl-javascript skills__icon' ></i>
-                                <span className="skills__name">JAVASCRIPT</span>
+                                <span className="skills__name">Javascript</span>
                             </div>
                             <div className="skills__bar skills__js">
                                 
