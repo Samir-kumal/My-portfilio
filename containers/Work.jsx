@@ -4,8 +4,8 @@ import WorkList from "@/components/work/WorkList"
 export const Work = () => {
   return (
     <div>
-      <section class="work section" id="work">
-        <h2 class="section-title">Work </h2>
+      <section className="work section" id="work">
+        <h2 className="section-title">Work </h2>
         <div>
             <WorkList/>
         </div>
